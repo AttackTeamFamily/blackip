@@ -27,3 +27,5 @@ IP列表：
 3.3.3.3
 ```
 - 量大可以直接上传压缩包
+### 贡献致谢
+[@timwhitez](https://github.com/timwhitez)
