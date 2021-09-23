@@ -4,6 +4,6 @@
 
 ### 使用
 ```
-git clone 
-iptable
+git clone https://github.com/AttackTeamFamily/blackip.git
+bash start.sh
 ```
