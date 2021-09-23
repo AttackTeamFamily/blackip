@@ -5,6 +5,7 @@
 ### 使用
 ```
 git clone https://github.com/AttackTeamFamily/blackip.git
+cd blackip
 bash start.sh
 ```
 
