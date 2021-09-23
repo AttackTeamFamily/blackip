@@ -7,3 +7,16 @@
 git clone https://github.com/AttackTeamFamily/blackip.git
 bash start.sh
 ```
+
+### 贡献说明
+希望公鸡队小伙伴们，积极贡献ip，贡献方式：
+- 提交Issues
+- 提交格式：
+```
+简介：全网测绘ip|云沙箱ip|漏扫ip|......
+IP列表：
+1.1.1.1/24
+2.2.2.2
+3.3.3.3
+```
+- 量大可以直接上传压缩包
