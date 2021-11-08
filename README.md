@@ -3,12 +3,12 @@
 在日益增强的攻防对抗中，全网测绘、云沙箱、动态样本分析等等防御项的系统对TeamServer展开了疯狂围剿。此项目旨在收集整理这些IP用于对抗分析。
 
 ### 数据
-|ACL|Blocked IP|File Size|description
-| :---: | :---: | :---: | :---: |
-|blackip.txt|238745164|22k|黑ip合集|
-|sandbox.txt|320|4.4k|云沙箱|
-|redwarden_ip.txt|238744726|16k|RedWarden项目收集|
-|cs_scan_ip.txt|206|2k|扫描CobaltStrike的恶意IP合集|
+|ACL|Blocked IP|Line Num|File Size|description
+| :---: | :---: | :---: | :---: | :---: |
+|blackip.txt|238745164|1556|22k|黑ip合集|
+|sandbox.txt|65343|320|4.4k|云沙箱|
+|redwarden_ip.txt|238744726|1143|16k|RedWarden项目收集|
+|cs_scan_ip.txt|206|206|2k|扫描CobaltStrike的恶意IP合集|
 ### 使用
 ```
 git clone https://github.com/AttackTeamFamily/blackip.git
