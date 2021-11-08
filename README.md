@@ -5,8 +5,8 @@
 ### 数据
 |ACL|Blocked IP|File Size|description
 | :---: | :---: | :---: | :---: |
-|blackip.txt|2198|32k|黑ip合集|
-|sandbox.txt|310|4.3k|云沙箱|
+|blackip.txt|238745164|22k|黑ip合集|
+|sandbox.txt|320|4.4k|云沙箱|
 |redwarden_ip.txt|1890|28k|RedWarden项目收集|
 
 ### 使用
@@ -31,3 +31,5 @@ IP列表：
 ### 贡献致谢
 - [@timwhitez](https://github.com/timwhitez)
 - [RedWarden项目](https://github.com/mgeeky/RedWarden/edit/master/data/banned_ips.txt)
+- [@Winck](https://github.com/By-Winck)
+- [@waterrr](https://github.com/waterrr/BlackIP/blob/main/ip.txt)
