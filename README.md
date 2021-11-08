@@ -7,8 +7,8 @@
 | :---: | :---: | :---: | :---: |
 |blackip.txt|238745164|22k|黑ip合集|
 |sandbox.txt|320|4.4k|云沙箱|
-|redwarden_ip.txt|1890|28k|RedWarden项目收集|
-
+|redwarden_ip.txt|238744726|16k|RedWarden项目收集|
+|cs_scan_ip.txt|206|2k|扫描CobaltStrike的恶意IP合集|
 ### 使用
 ```
 git clone https://github.com/AttackTeamFamily/blackip.git
